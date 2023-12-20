@@ -1,10 +1,9 @@
 <div align="left">
 
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1400&pause=2000&color=20A3F7&background=01FF7500&vCenter=true&random=false&width=450&height=100&lines=My+First+Github👋)](https://git.io/typing-svg) -->
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=My%20First%20Github%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=150)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient)
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1400&pause=2000&color=20A3F7&background=01FF7500&vCenter=true&random=false&width=450&height=100&lines=My+First+Github👋)](https://git.io/typing-svg)
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoungCheol-Lee)](https://github.com/anuraghazra/github-readme-stats)
